@@ -1,2 +1,2 @@
 # myProject-App
-AP to connect DB
+API to connect DB
